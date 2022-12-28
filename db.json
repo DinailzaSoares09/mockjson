@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "NomeHosp": "[4] Bom Samaritano",
+    "ListaErros": [
+      {
+        "ID": "3",
+        "Nome": "INTERNAL SERVER ERROR",
+        "Erros": [
+          {
+            "id_Integra": "1",
+            "dataHora_Gerado": "14/10/2021 18:35:29",
+            "dataHora_Processado": "14/10/2021 18:35:30",
+            "Descricao": "INTERNAL SERVER ERROR"
+          },
+          {
+            "id_Integra": "2",
+            "dataHora_Gerado": "13/10/2021 18:37:29",
+            "dataHora_Processado": "13/10/2021 18:38:30",
+            "Descricao": "INTERNAL SERVER ERROR"
+          }
+        ]
+      },
+      {
+        "ID": "2",
+        "Nome": "Resposta do WebService",
+        "Erros": [
+          {
+            "id_Integra": "1",
+            "dataHora_Gerado": "10/10/2021 18:35:29",
+            "dataHora_Processado": "10/10/2021 18:35:30",
+            "Descricao": "A resposta de erro nao contem a TAG [<motivoErro>]. Resposta do WebService:<html><head><title>504 Gateway Time-out</title></head><body><center><h1>504 Gateway Time-out</h1></center></body></html>"
+          },
+          {
+            "idIntegra": "5",
+            "dataHora_Gerado": "13/10/2021 18:37:29",
+            "dataHora_Processado": "13/10/2021 18:38:30",
+            "Descricao": "A resposta de erro nao contem a TAG [<motivoErro>]. Resposta do WebService:<html><head><title>504 Gateway Time-out</title></head><body><center><h1>504 Gateway Time-out</h1></center></body></html>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "NomeHosp": "[5] Hospital teste",
+    "ListaErros": [
+      {
+        "ID": "2",
+        "Nome": "INTERNAL SERVER ERROR",
+        "Erros": [
+          {
+            "id_Integra": "1",
+            "dataHora_Gerado": "11/10/2021 18:35:29",
+            "dataHora_Processado": "11/10/2021 18:35:30",
+            "Descricao": "INTERNAL SERVER ERROR"
+          },
+          {
+            "id_Integra": "2",
+            "dataHora_Gerado": "11/10/2021 18:35:29",
+            "dataHora_Processado": "11/10/2021 18:35:30",
+            "Descricao": "INTERNAL SERVER ERROR"
+          }
+        ]
+      },
+      {
+        "ID": "2",
+        "Nome": "Resposta do WebService",
+        "Erros": [
+          {
+            "id_Integra": "1",
+            "dataHora_Gerado": "10/10/2021 18:35:29",
+            "dataHora_Processado": "10/10/2021 18:35:30",
+            "Descricao": "A resposta de erro nao contem a TAG [<motivoErro>]. Resposta do WebService:<html><head><title>504 Gateway Time-out</title></head><body><center><h1>504 Gateway Time-out</h1></center></body></html>"
+          },
+          {
+            "id_Integra": "5",
+            "dataHora_Gerado": "14/10/2021 10:37:29",
+            "dataHora_Processado": "14/10/2021 10:38:30",
+            "Descricao": "A resposta de erro nao contem a TAG [<motivoErro>]. Resposta do WebService:<html><head><title>504 Gateway Time-out</title></head><body><center><h1>504 Gateway Time-out</h1></center></body></html>"
+          }
+        ]
+      }
+    ]
+  }
+]
